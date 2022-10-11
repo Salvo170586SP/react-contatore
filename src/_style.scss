@@ -1,0 +1,113 @@
+$coloreScuro: rgb(27, 14, 84);
+$coloreChiaro: rgb(132, 130, 173);
+$coloreChiarissimo: #eee;
+
+h1 {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: $coloreScuro;
+}
+h2 {
+    font-size: 1.3rem;
+    font-weight: bold;
+    color: $coloreScuro;
+}
+h3 {
+    font-size: 1.1rem;
+    font-weight: bold;
+    color: $coloreChiaro;
+}
+h4 {
+    font-size: 1rem;
+    font-weight: bold;
+    color: $coloreScuro;
+}
+h5 {
+    font-size: 1rem;
+    font-weight: bold;
+    color: $coloreChiaro;
+}
+
+a {
+}
+
+.alight {
+}
+
+////////////// BOTTONI /////////////////// 
+button {
+    color: #FFF;
+    padding: 10px;
+    background-color: $coloreChiaro;
+    border: 0;
+    margin-right: 10px;
+    border-radius: 10px;
+}
+
+.ButtonLight{
+    padding: 25px;
+    color: $coloreScuro;
+    background-color: $coloreChiarissimo;
+    box-shadow: gray 0 0 4px 0;
+    cursor: pointer;
+}
+.ButtonAlert{
+    padding: 25px;
+    background-color: $coloreScuro;
+}
+
+.LinkButton{
+    padding: 25px;
+    background-color: $coloreScuro;
+}
+.LinkButtonLight{
+    padding: 25px;
+    background-color: $coloreScuro;
+}
+.LinkButtonAlert{
+    padding: 25px;
+    background-color: $coloreScuro;
+}
+
+p {
+  text-align: justify;
+}
+
+img {
+  margin-right: 10px;
+}
+
+li {
+
+}
+
+ul {
+
+}
+
+.EvidenceText{
+
+}
+
+.Instructions {
+}
+
+/////////// FORM //////////
+Form {
+
+}
+Input {
+
+}
+Select {
+
+}
+Label {
+
+}
+
+////////// TABELLA DEI RISULTATI ///////////
+.ResultCol {
+}
+.ResultRow {
+}
